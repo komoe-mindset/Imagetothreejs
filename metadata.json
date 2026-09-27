@@ -1,0 +1,6 @@
+{
+  "name": "3D Genesis - 2D to 3D Scene Generator",
+  "description": "Convert 2D images into interactive Three.js 3D scenes and export GLB with Google Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
